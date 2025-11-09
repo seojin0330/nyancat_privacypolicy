@@ -1,6 +1,6 @@
 # Privacy Policy for NYANCAT Discord Bot
 
-**Last Updated:** November 2024
+**Last Updated:** November 2025
 
 ## Introduction
 
