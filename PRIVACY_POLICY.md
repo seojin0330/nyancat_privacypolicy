@@ -130,9 +130,9 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us:
 
-- **Discord**: [Your Discord Username or Support Server]
-- **Email**: [Your Email Address]
-- **GitHub**: [Your GitHub Repository URL]
+- **Discord Username**: seojin_kr
+- **Discord Support Server**: https://discord.gg/AmvAJafbSc
+- **Email**: seojin7909@gmail.com
 
 ## Compliance
 
